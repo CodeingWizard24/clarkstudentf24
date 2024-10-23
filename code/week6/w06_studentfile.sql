@@ -21,7 +21,7 @@
     Here is an example template:
     
     INSERT INTO tablename
-    ( column_1
+    ( movie_title
     , column_2
     , etc)
     VALUES
